@@ -23,7 +23,7 @@ formatter.match({
   "location": "example.displayReports()"
 });
 formatter.result({
-  "duration": 225493838,
+  "duration": 900082936,
   "status": "passed"
 });
 formatter.scenario({
@@ -68,7 +68,7 @@ formatter.match({
   "location": "example.calculate(Integer\u003e)"
 });
 formatter.result({
-  "duration": 2923887,
+  "duration": 2414270,
   "status": "passed"
 });
 formatter.match({
@@ -81,7 +81,7 @@ formatter.match({
   "location": "example.checksum(int)"
 });
 formatter.result({
-  "duration": 4112469,
+  "duration": 7693610,
   "status": "passed"
 });
 formatter.scenario({
@@ -133,7 +133,7 @@ formatter.match({
   "location": "example.pricelistofItems(String,Integer\u003e)"
 });
 formatter.result({
-  "duration": 1228451,
+  "duration": 769361,
   "status": "passed"
 });
 formatter.match({
@@ -158,7 +158,7 @@ formatter.match({
   "location": "example.userorder(int,String,int,String)"
 });
 formatter.result({
-  "duration": 295270,
+  "duration": 194215,
   "status": "passed"
 });
 formatter.match({
@@ -171,7 +171,7 @@ formatter.match({
   "location": "example.paymentDone(int)"
 });
 formatter.result({
-  "duration": 172109,
+  "duration": 407378,
   "status": "passed"
 });
 formatter.scenario({
@@ -235,7 +235,7 @@ formatter.match({
   "location": "example.userorder(OrderItem\u003e)"
 });
 formatter.result({
-  "duration": 18906386,
+  "duration": 17569775,
   "status": "passed"
 });
 formatter.match({
@@ -260,7 +260,7 @@ formatter.match({
   "location": "example.purchasePower(int,String,int,String)"
 });
 formatter.result({
-  "duration": 281850,
+  "duration": 309482,
   "status": "passed"
 });
 formatter.match({
@@ -273,7 +273,7 @@ formatter.match({
   "location": "example.cost(int)"
 });
 formatter.result({
-  "duration": 3401925,
+  "duration": 1449115,
   "status": "passed"
 });
 });
