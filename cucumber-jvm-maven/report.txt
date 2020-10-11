@@ -1,0 +1,6 @@
+#This is dummy data
+rp.endpoint = http://localhost:9090
+rp.uuid = 89765f66-642e-4832-89c2-92c093da528b
+rp.launch = Yap_Regression_$currentdate
+rp.project = yapstone
+rp.enable = true
